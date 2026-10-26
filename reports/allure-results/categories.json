@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Ignored / known issues",
+    "matchedStatuses": [
+      "skipped"
+    ]
+  },
+  {
+    "name": "Product defects",
+    "matchedStatuses": [
+      "failed"
+    ],
+    "messageRegex": ".*Epic sadface.*|.*expect.*"
+  },
+  {
+    "name": "Test/automation defects",
+    "matchedStatuses": [
+      "broken"
+    ]
+  },
+  {
+    "name": "Timeouts",
+    "matchedStatuses": [
+      "broken",
+      "failed"
+    ],
+    "messageRegex": ".*Timeout.*|.*timed out.*"
+  },
+  {
+    "name": "Element not found",
+    "matchedStatuses": [
+      "broken",
+      "failed"
+    ],
+    "messageRegex": ".*not visible.*|.*not found.*|.*locator.*"
+  }
+]

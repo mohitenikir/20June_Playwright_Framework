@@ -1,0 +1,1 @@
+{"type":"metadata","data":{"description":"A `locked_out_user` must NOT be able to log in and should see a lockout error."}}

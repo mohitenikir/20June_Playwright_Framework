@@ -1,0 +1,8 @@
+{
+  "name": "Local",
+  "type": "local",
+  "buildName": "SauceDemo Framework #local",
+  "buildOrder": 1,
+  "buildUrl": "http://localhost",
+  "reportName": "SauceDemo Playwright Allure Report"
+}

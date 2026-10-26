@@ -1,0 +1,8 @@
+2026-10-14 18:04:26 ℹ [INFO] Navigated to: https://www.saucedemo.com/
+2026-10-14 18:04:26 ℹ [INFO] Opened login page: https://www.saucedemo.com/
+2026-10-14 18:04:26 ℹ [INFO] Filled field: getByPlaceholder('Username')
+2026-10-14 18:04:26 ℹ [INFO] Filled field: locator('#password')
+2026-10-14 18:04:27 ℹ [INFO] Clicked on: getByRole('button', { name: 'Login' })
+2026-10-14 18:04:27 ℹ [INFO] Submitted login form
+2026-10-14 18:04:27 ℹ [INFO] Submitted invalid credentials
+2026-10-14 18:04:27 ℹ [INFO] Verified error message: Epic sadface: Username and password do not match any user in this service

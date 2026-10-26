@@ -1,0 +1,1 @@
+{"type":"metadata","data":{"description":"### Objective\nVerify that a **standard user** can log in and land on the Products page.\n\n**Precondition:** SauceDemo is reachable.\n**Expected:** Products page is shown after login."}}
